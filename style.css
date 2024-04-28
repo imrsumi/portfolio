@@ -83,6 +83,7 @@ body{
 
 .contact-form{
     margin-top: 20px;
+    align-items : center;
 }
 
 .contact-form__input,.contact-form__textarea,.contact-form__submit{
